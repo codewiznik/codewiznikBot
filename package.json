@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Nikhil Yadav",
   "license": "ISC",
-  "description": "A Telegram bot built with Node.js for CodeWizNik"
+  "description": "A Telegram bot built with Node.js for CodeWizNik",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
 }
