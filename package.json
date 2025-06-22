@@ -1,0 +1,12 @@
+{
+  "name": "codewiznikbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Nikhil Yadav",
+  "license": "ISC",
+  "description": "A Telegram bot built with Node.js for CodeWizNik"
+}
